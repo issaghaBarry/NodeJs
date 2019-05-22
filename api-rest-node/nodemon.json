@@ -1,0 +1,6 @@
+{
+	"env":{
+		"MONGO_ATLAS_PW": "toto18",
+		"JWT_KEY": "login-sign"
+	}
+}
